@@ -12,8 +12,8 @@
 
 Budżet:
  -Żelki: 3.99 zł x1
- -Pokoje w Fake hostelu: 400 zł x6
- -Opłata za fake taxi: 400 zł
+ -Pokoje w hostelu: 400 zł x6
+ -Opłata za taxi: 400 zł
  -Pobyt w restauracji: 30 zł x8 
  -Impreza: 300 zł
  -Bilety: 300 zł
