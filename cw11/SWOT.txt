@@ -1,0 +1,14 @@
+S:
+   -Dzięki sprzedaży i utrzymaniu oprogramowania firma ma stały dochód 
+   -Wszechstronność kadry (Full Stack)
+   -Własny sprzęt i oprogramowanie
+W:
+   -Mała ilość pracowników
+   -Jeden pracownik na kilka stanowisk (kadrowa-księgowa)
+O:
+   -Możliwość reklamowania się w lokalizacji siedziby firmy (Morąg)
+   -Możliwość organizowania spotkania z klientem w biurze
+T:
+   -Ryzyko zniszczenia biura
+   -Słaba lokalizacja biura
+   -Powstanie konkurencji
